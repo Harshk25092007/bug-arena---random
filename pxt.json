@@ -1,0 +1,52 @@
+{
+    "name": "Bug Arena - Random",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "core": "*",
+        "hourOfAi": "github:riknoll/bug-arena"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.56",
+        "tag": "v2.0.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/2e47d3464cf6ea715ec6e630834bbe15bc2f6feb",
+        "target": "2.0.62",
+        "pxt": "11.3.59",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#B92234",
+        "#FDFFCD",
+        "#FF7F38",
+        "#FFB838",
+        "#D6FF5D",
+        "#41736E",
+        "#47DF6F",
+        "#4886BE",
+        "#8C1E4E",
+        "#4BB1D3",
+        "#D7DFE2",
+        "#8C9193",
+        "#4E585B",
+        "#2E3948",
+        "#0E1132"
+    ]
+}
